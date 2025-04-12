@@ -62,7 +62,7 @@ body {
 .container {
     max-width: 1200px;
     margin: 20px auto;
-    background-color:rgb(0, 119, 182); 
+    background-color:rgb(30, 30, 30, 0.74); 
     padding: 20px;
     border-radius: 10px; 
 }
@@ -84,7 +84,7 @@ body {
     
 }
 .card.text-dark.bg-light {
-    border-bottom: 4px solid rgb(0, 119, 182);
+    border-bottom: 4px solid rgb(30, 30, 30, 0.74);
 }
 .ribbon {
     position: absolute;
@@ -92,7 +92,7 @@ body {
     left: -5px;
     width: 60px;
     height: 25px;
-    background: rgb(0, 119, 182);
+    background: rgb(30, 30, 30, 0.74);
     clip-path: polygon(0% 0%, 80% 0%, 100% 50%, 80% 100%, 0% 100%);
 }
 .user-icons {
@@ -118,7 +118,7 @@ body {
 }
 
 .plus-icon { 
-    background:  rgb(0, 119, 182);
+    background:  rgb(30, 30, 30, 0.74);
 }
 .containermt-4{
 

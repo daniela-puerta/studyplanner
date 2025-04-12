@@ -128,145 +128,132 @@
                             <a class="nav-link text-white" href="./reports.php"><i
                                     class="bi bi-file-earmark-text me-2"></i>Reports</a>
                         </li>
-
                     </ul>
                 </div>
             </div>
-    <div class="container mt-4">
-    <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-            <img src="../assets/importantes.jpg" alt="Imagen decorativa" class="img-fluid rounded-4">
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <p>La verdadera eficacia radica en la capacidad de distinguir entre lo urgente y lo importante.  
-            Priorizar correctamente es el primer paso hacia el éxito.</p>
+
+            <div class="container mt-4">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                        <img src="../assets/archived.jpg" alt="Imagen decorativa" class="img-fluid rounded-4">
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                        <p>La verdadera eficacia radica en la capacidad de distinguir entre lo urgente y lo importante.  
+                        Priorizar correctamente es el primer paso hacia el éxito.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <h5>Sabado, 01 de marzo</h5>
+                        <div class="card text-dark bg-light mb-3">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+2</div>
+                            </div>
+                        </div>
+                        <div class="card text-dark bg-light mb-3 mt-2">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card titl</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+1</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <h5>Miércoles, 05 de marzo</h5>
+                        <div class="card text-dark bg-light mb-3">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+2</div>
+                            </div>
+                        </div>
+                        <div class="card text-dark bg-light mb-3 mt-2">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+1</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <h5>Miércoles, 26 de febrero</h5>
+                        <div class="card text-dark bg-light mb-3">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+2</div>
+                            </div>
+                        </div>
+                        <div class="card text-dark bg-light mb-3 mt-2">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+1</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <h5>Miércoles, 25 de febrero</h5>
+                        <div class="card text-dark bg-light mb-3">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+2</div>
+                            </div>
+                        </div>
+                        <div class="card text-dark bg-light mb-3 mt-2">
+                            <div class="ribbon"></div>
+                            <div class="card-body">
+                                <h5 class="card-title">Light card title</h5>
+                                <p class="card-text">Some quick example text.</p>
+                            </div>
+                            <div class="user-icons">
+                                <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                                <div class="user-circle plus-icon">+1</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</div>
 
-<div class="card">
-    <div class="row">
-        <div class="col-12 col-sm-6 col-md-3">
-            <h5>Semanales</h5>
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <h5>Miércoles, 05 de marzo</h5>
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <h5>Miércoles, 26 de febrero</h5>
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <h5>Miércoles, 25 de febrero</h5>
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-3">
-            <div class="card text-dark bg-light mb-3">
-                <div class="ribbon"></div>
-                <div class="card-body">
-                    <h5 class="card-title">Light card title</h5>
-                    <p class="card-text">Some quick example text.</p>
-                </div>
-                <div class="user-icons">
-                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-                    <div class="user-circle plus-icon">+2</div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-
-
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>

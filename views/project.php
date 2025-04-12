@@ -135,134 +135,351 @@
             <div class="container mt-4">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 mb-4">
         <div class="col">
-            <a href="../views/important.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center">
+            <a href="../views/important.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center btn-important">
                 <span>Importantes</span>
                 <span class="material-symbols-outlined">more_vert</span>
             </a>
+            <div class="d-md-none mt-3">
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+            </div>
         </div>
+
         <div class="col">
-            <a href="../views/pending.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center">
+            <a href="../views/pending.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center btn-pending">
                 <span>Pendientes</span>
                 <span class="material-symbols-outlined">more_vert</span>
             </a>
+            <div class="d-md-none mt-3">
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+            </div>
         </div>
+
         <div class="col">
-            <a href="../views/in_progress.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center">
+            <a href="../views/in_progress.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center btn-inprogress">
                 <span>En curso</span>
                 <span class="material-symbols-outlined">more_vert</span>
             </a>
+            <div class="d-md-none mt-3">
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+            </div>
         </div>
+
         <div class="col">
-            <a href="../views/archived.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center">
+            <a href="../views/archived.php" class="btn btn-primary w-100 d-flex justify-content-between align-items-center btn-archived">
                 <span>Archivados</span>
                 <span class="material-symbols-outlined">more_vert</span>
             </a>
+            <div class="d-md-none mt-3">
+                <div class="card text-dark bg-light mb-3">
+                    <div class="ribbon"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Light card title</h5>
+                        <p class="card-text">Some quick example text.</p>
+                    </div>
+                    <div class="user-icons">
+                        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                        <div class="user-circle plus-icon">+2</div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div class="row g-3">
-  <div class="col-md-3">
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-  </div>
+    <div class="row g-3 d-none d-md-flex">
+        <div class="col-md-3">
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+        </div>
 
-  <div class="col-md-3">
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-  </div>
+        <div class="col-md-3">
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+        </div>
 
-  <div class="col-md-3">
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
-      </div>
-    </div>
-  </div>
+        <div class="col-md-3">
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+        </div>
 
-  <div class="col-md-3">
-    <div class="card text-dark bg-light mb-3">
-    <div class="ribbon"></div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text.</p>
-      </div>
-      <div class="user-icons">
-        <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
-        <div class="user-circle plus-icon">+2</div>
+        <div class="col-md-3">
+            <div class="card text-dark bg-light mb-3">
+                <div class="ribbon"></div>
+                <div class="card-body">
+                    <h5 class="card-title">Light card title</h5>
+                    <p class="card-text">Some quick example text.</p>
+                </div>
+                <div class="user-icons">
+                    <div class="user-circle user-icon"><i class="bi bi-person-fill text-dark"></i></div>
+                    <div class="user-circle plus-icon">+2</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+   
+    <button type="button" id="btn-NT" class="btn btn-category" data-bs-toggle="modal"
+      data-bs-target="#createTaskModal">
+      Crear Nueva Tarea
+    </button>
+
+    <div class="modal fade" id="createTaskModal" tabindex="-1" aria-labelledby="createTaskModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="createTaskModalLabel">Crear Nueva Tarea</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="mb-3">
+                <label for="taskTitle" class="form-label">Título de la tarea</label>
+                <input type="text" class="form-control" id="taskTitle" placeholder="Ej: Estudiar para el examen">
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Color</label>
+                <div class="color-palette">
+                  <div class="color-swatch" style="background-color: #a8dadc;"></div>
+                  <div class="color-swatch" style="background-color: #fce7f3;"></div>
+                  <div class="color-swatch" style="background-color: #ffe8d6;"></div>
+                  <div class="color-swatch" style="background-color: #b8f2e6;"></div>
+                </div>
+              </div>
+              <div class="mb-3">
+                <label for="taskDescription" class="form-label">Descripción</label>
+                <textarea class="task-description" id="taskDescription"
+                  placeholder="Añade una descripción de la tarea"></textarea>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Calendario de Google</label>
+                <div class="google-calendar-container">
+                  <iframe
+                    src="https://calendar.google.com/calendar/embed?src=TU_CORREO_DE_GMAIL%40gmail.com&ctz=America%2FBogota"
+                    class="google-calendar-iframe" frameborder="0" scrolling="no"></iframe>
+                </div>
+                <p class="text-muted small">Este es una vista integrada de tu Calendario de Google. Puedes
+                  interactuar con él para seleccionar la fecha.</p>
+              </div>
+
+              <div class="date-time-container">
+                <div class="calendar-container">
+                  <div class="calendar-header">
+                    <span class="prev-month">&lt;</span>
+                    <span>Abril 2025</span>
+                    <span class="next-month">&gt;</span>
+                  </div>
+                  <div class="calendar-body">
+                    <div>D</div>
+                    <div>L</div>
+                    <div>M</div>
+                    <div>X</div>
+                    <div>J</div>
+                    <div>V</div>
+                    <div>S</div>
+                    <div></div>
+                    <div></div>
+                    <div>1</div>
+                    <div class="calendar-day">2</div>
+                    <div class="calendar-day">3</div>
+                    <div class="calendar-day">4</div>
+                    <div class="calendar-day active">5</div>
+                    <div class="calendar-day">6</div>
+                    <div class="calendar-day">7</div>
+                    <div class="calendar-day">8</div>
+                    <div class="calendar-day">9</div>
+                    <div class="calendar-day">10</div>
+                    <div class="calendar-day">11</div>
+                    <div class="calendar-day">12</div>
+                    <div class="calendar-day">13</div>
+                    <div class="calendar-day">14</div>
+                    <div class="calendar-day">15</div>
+                    <div class="calendar-day">16</div>
+                    <div class="calendar-day">17</div>
+                    <div class="calendar-day">18</div>
+                    <div class="calendar-day">19</div>
+                    <div class="calendar-day">20</div>
+                    <div class="calendar-day">21</div>
+                    <div class="calendar-day">22</div>
+                    <div class="calendar-day">23</div>
+                    <div class="calendar-day">24</div>
+                    <div class="calendar-day">25</div>
+                    <div class="calendar-day">26</div>
+                    <div class="calendar-day">27</div>
+                    <div class="calendar-day">28</div>
+                    <div class="calendar-day">29</div>
+                    <div class="calendar-day">30</div>
+                  </div>
+                </div>
+                <div class="time-selector">
+                  <label class="form-label">Hora</label>
+                  <div class="time-input-group">
+                    <input type="number" class="form-control time-input" id="hour" min="1" max="12" placeholder="H">
+                    <span>:</span>
+                    <input type="number" class="form-control time-input" id="minute" min="0" max="59"
+                      placeholder="M">
+                    <select class="form-select form-select-sm" id="amPm">
+                      <option value="am">AM</option>
+                      <option value="pm" selected>PM</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary">+ Añadir</button>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
 </div>
 
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
